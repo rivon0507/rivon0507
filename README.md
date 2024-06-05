@@ -27,7 +27,7 @@
 
 - 📫 Feel free to reach me out **flavienrivon@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [rivon0507](https://discordapp.com/users/1123565442385072168) my username!-->
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [rivon0507](https://discordapp.com/users/1123565442385072168) is my username!
 <!--Intro end-->
 
 
@@ -110,7 +110,3 @@
 
 ----------------------------------------------------------------------
 Get your own profile readme template [here](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
-
-Credit: [1010nishant](https://github.com/1010nishant)
-
-Last Edited on: 29/4/2023
