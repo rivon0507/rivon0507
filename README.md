@@ -15,6 +15,12 @@
   </ul>
 </div>
 
+<!-- profile visit count -->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=rivon0507&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -102,13 +108,6 @@
 <a href="https://discordapp.com/users/1123565442385072168" target="blank"><img align="center" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="discord" height="50" width="50" /></a>
   
 </p>
-
-<!-- profile visit count -->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=rivon0507&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
 
 
 <!--horizontal divider(gradiant)-->
