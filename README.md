@@ -54,7 +54,7 @@
 
 ![Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rivon0507&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
   
-  </td-->
+</td-->
 </tr>
 </table>
 <!--- stats (end) -->
@@ -66,9 +66,6 @@
     </a>
 </div>
 <!--- trophy (end) -->
-
- 
-<!--- stats (end) -->
 
 
 <!--h1 without bottom border-->
@@ -106,7 +103,7 @@
 <!-- profile visit count -->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=rivon0507&icon=3&color=6)](https://visitcount.itsvg.in)
+[![Profile Visit Count](https://visitcount.itsvg.in/api?id=rivon0507&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
@@ -114,5 +111,4 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
 Get your own profile readme template [here](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
