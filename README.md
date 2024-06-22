@@ -50,11 +50,11 @@
 ![Mark streak](https://github-readme-streak-stats.herokuapp.com/?user=rivon0507&theme=dark&hide_border=false) 
 </td>
 
-<td width="50%" align="center">
+<!--td width="50%" align="center">
 
 ![Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rivon0507&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
   
-</td>
+</td-->
 </tr>
 </table>
 <!--- stats (end) -->
