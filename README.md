@@ -1,114 +1,41 @@
-<div align="center">
+# 👋 Hi, I'm Flavien — aka rivon0507
 
-![Coding](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZvY3QzZXdjd2FmeDlpOWtpN3Q1ZXlnYTVsengyaDV3aWltb2trdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+🎓 Fourth year (M1) Software Engineering & Database student at ENI Fianarantsoa  
+💻 Aspiring **Java Software Developer**  
+🌍 Currently based in Madagascar  
+🌱 Learning **TypeScript**, **Japanese**, and exploring **system design**
 
-</div>
+---
 
-<!--horizontal divider(gradiant)-->
+## 🧠 About Me
 
-![Divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+- 👨‍🎓 I'm pursuing my degree at École Nationale d'Informatique (ENI), specializing in software engineering and database systems.
+- 🌌 I'm passionate about clean code, solving complex problems, and building systems that scale.
+- 🧩 I like understanding how things work — especially when it comes to authentication, algorithms, or backend architecture.
+- 🇯🇵 I’m teaching myself Japanese (for the love of anime and light novels ❤️).
+- 🤯 Perfectionist, overthinker, and deeply introverted — but that just fuels my obsession with writing great code.
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm rivon0507</h1></summary>
-  </ul>
-</div>
+---
 
+## 🛠️ Tech Stack & Tools
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">comprehensible code >> correct and efficient code >> smart-looking short code</h2></summary>
-  </ul>
-</div>
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
+### ⚙️ Frameworks & Tools I recently used
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E3F5B?style=flat)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-<!--Intro start-->
-- 🔭 I’m currently working on **Godot, React, React Native, Nodejs**
+---
 
-- 🌱 I’m currently learning **game programming**
+_“Stay recursive. Get lost. Return only with optimal code.”_
 
-- ☁️ I've keen interest in Data Structures and Algorithms.
-
-- 📫 Feel free to reach me out **flavienrivon@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [rivon0507](https://discordapp.com/users/1123565442385072168) is my username!
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=rivon0507&theme=dark&show_icons=true&count_private=true)
-  <br>
-![Mark streak](https://github-readme-streak-stats.herokuapp.com/?user=rivon0507&theme=dark&hide_border=false) 
-</td>
-
-<!--td width="50%" align="center">
-
-![Language Stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rivon0507&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
-  
-</td-->
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=rivon0507&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-
-![Tech Stack](https://skillicons.dev/icons?i=git,cpp,css,discord,postgres,express,redis,github,html,java,js,linux,md,materialui,mysql,nodejs,py,react,vscode&perline=14)
-
-  </a>
-</p>
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/flavien-tsiriherivonjy-1a04a0281" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/256px-Linkedin_icon.svg.png?20110609134306" alt="linkedin" height="50" width="50" /></a>
-<a href="https://facebook.com/flavien.rivon" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/256px-Facebook_icon.svg.png?20220812153731" alt="twitter" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/1123565442385072168" target="blank"><img align="center" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="discord" height="50" width="50" /></a>
-  
-</p>
-
-<!-- profile visit count -->
-<div align="center">
-  
-[![Profile Visit Count](https://visitcount.itsvg.in/api?id=rivon0507&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-Get your own profile readme template [here](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
